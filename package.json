@@ -1,0 +1,13 @@
+{
+  "name": "merging-webgl-and-html-worlds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Owain Stratton <owain@corduroystudio.io>",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.136.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.2.0"
+  }
+}
